@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="WebApplication10.Models.ClientDBContext-Web.config Connection String" description="WebApplication10.Models.ClientDBContext Connection String used in web.config by the application to access the database." defaultValue="WebApplication10.Models.ClientDBContext_ConnectionString" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="D:\\Project\\WebApplication10\\WebApplication10\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='WebApplication10.Models.ClientDBContext']/@connectionString" />
+  </parameter>
+</parameters>
